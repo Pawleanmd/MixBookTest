@@ -1,0 +1,16 @@
+C:\Users\showtime\source\repos\ToDelete\ToDelete\bin\Debug\net5.0\ToDelete.exe
+C:\Users\showtime\source\repos\ToDelete\ToDelete\bin\Debug\net5.0\ToDelete.deps.json
+C:\Users\showtime\source\repos\ToDelete\ToDelete\bin\Debug\net5.0\ToDelete.runtimeconfig.json
+C:\Users\showtime\source\repos\ToDelete\ToDelete\bin\Debug\net5.0\ToDelete.runtimeconfig.dev.json
+C:\Users\showtime\source\repos\ToDelete\ToDelete\bin\Debug\net5.0\ToDelete.dll
+C:\Users\showtime\source\repos\ToDelete\ToDelete\bin\Debug\net5.0\ref\ToDelete.dll
+C:\Users\showtime\source\repos\ToDelete\ToDelete\bin\Debug\net5.0\ToDelete.pdb
+C:\Users\showtime\source\repos\ToDelete\ToDelete\obj\Debug\net5.0\ToDelete.csproj.AssemblyReference.cache
+C:\Users\showtime\source\repos\ToDelete\ToDelete\obj\Debug\net5.0\ToDelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\showtime\source\repos\ToDelete\ToDelete\obj\Debug\net5.0\ToDelete.AssemblyInfoInputs.cache
+C:\Users\showtime\source\repos\ToDelete\ToDelete\obj\Debug\net5.0\ToDelete.AssemblyInfo.cs
+C:\Users\showtime\source\repos\ToDelete\ToDelete\obj\Debug\net5.0\ToDelete.csproj.CoreCompileInputs.cache
+C:\Users\showtime\source\repos\ToDelete\ToDelete\obj\Debug\net5.0\ToDelete.dll
+C:\Users\showtime\source\repos\ToDelete\ToDelete\obj\Debug\net5.0\ref\ToDelete.dll
+C:\Users\showtime\source\repos\ToDelete\ToDelete\obj\Debug\net5.0\ToDelete.pdb
+C:\Users\showtime\source\repos\ToDelete\ToDelete\obj\Debug\net5.0\ToDelete.genruntimeconfig.cache
